@@ -124,3 +124,4 @@ productSearch.addEventListener("input", () => {
 
 fetchCategories();
 fetchProducts();
+
